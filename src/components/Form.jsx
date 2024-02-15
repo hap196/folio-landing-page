@@ -13,7 +13,7 @@ function Form() {
   }, []);
 
   return (
-    <div className="w-full" id="waitlist">
+    <div className="w-full sm:pt-40" id="waitlist">
       <div data-tf-live="01HPN10WVK4Y7ZG5J6JQX3BRQR"></div>
     </div>
   );
